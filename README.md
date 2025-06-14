@@ -14,3 +14,5 @@ Works on xeno, didnt tested other executors
   * Font Size ( 10 - 30 )
   * Team Check
   * Wall Check ( only appears when the enemie is in the open )
+
+will prolly update it
